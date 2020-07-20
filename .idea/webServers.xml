@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79f5a1fc-497c-4d18-be42-db0e076cc89b" name="testdj_ftp" url="http://106.12.7.215">
+        <fileTransfer host="106.12.7.215" port="21" rootFolder="/testdj">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
