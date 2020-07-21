@@ -129,4 +129,3 @@ def start(port):
 
 if __name__ == "__main__":
     start(8000)
-    print 'Hello World'

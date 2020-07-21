@@ -13,4 +13,3 @@ res_dict = json.loads(res)
 print 'url=>',url
 print 'result=>',res_dict['result']
 print 'error_msg=>',res_dict['error_msg']
-print 'Hello World'
